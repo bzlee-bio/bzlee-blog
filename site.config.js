@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/bzlee-bio/morethan-log",
+      name: `BZLEE-blog`,
+      href: "https://github.com/bzlee-bio/bzlee-blog",
     },
   ],
   // blog setting (required)
