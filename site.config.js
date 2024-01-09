@@ -12,6 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
+      enable: false,
       name: `BZLEE-blog`,
       href: "https://github.com/bzlee-bio/bzlee-blog",
     },
