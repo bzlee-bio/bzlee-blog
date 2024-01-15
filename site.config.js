@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Researcher (Bioinformatics+Artificial intelligence)",
     bio: "",
     email: "blee.inf@gmail.com",
-    linkedin: "",
+    linkedin: "byungjolee",
     github: "bzlee-bio",
     instagram: "",
   },
