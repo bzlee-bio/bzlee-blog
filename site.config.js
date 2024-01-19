@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "Byungjo Lee",
     image: "/profile.jpeg", 
-    role: "Postdoc. Researcher. (Bioinformatics+Artificial intelligence)",
+    role: "Postdoc. Researcher at National Cancer Center, Korea. (Bioinformatics+Artificial intelligence)",
     bio: "",
     email: "blee.inf@gmail.com",
     linkedin: "byungjolee",
