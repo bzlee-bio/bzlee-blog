@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Byungjo Lee",
     image: "/profile.jpeg", 
     role: "Postdoc. Researcher at National Cancer Center, Korea. (Bioinformatics+Artificial intelligence)",
-    bio: "",#
+    bio: "",
     email: "blee.inf@gmail.com",
     linkedin: "byungjolee",
     github: "bzlee-bio",
